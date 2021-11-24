@@ -13,8 +13,8 @@ int main(){
     mhs.fname = "John";
     mhs.lname = "Doe";
 
-    cout<<mhs.fname<<endl;
-    cout<<mhs.lname<<endl;
+    //cout<<mhs.fname<<endl;
+    //cout<<mhs.lname<<endl;
     cout<<mhs.fname + " " + mhs.lname<<endl;
     return 0;
 }
