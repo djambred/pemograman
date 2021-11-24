@@ -13,5 +13,5 @@ int main(){
     cout << "INI ALAMAT MEMORYNYA\n";
     cout << &nama << endl; 
     cout << &nim << endl;
-
+    return 0;
 }
